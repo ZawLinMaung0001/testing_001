@@ -1,0 +1,127 @@
+body {
+  margin: 10px;
+}
+
+header {
+  margin: 10px 10px 10px 10px;
+  background-color: rgb(209, 186, 111);
+  height: 110px;
+  border-radius: 10px;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+  padding: 10px;
+  font-family: oblique;
+}
+
+.nav {
+  padding: 10px;
+  background-color: aquamarine;
+  margin: auto;
+  width: 95%;
+  border-radius: 5px;
+}
+
+ul {
+  text-align: center;
+}
+
+ul li {
+  display: inline;
+  font-size: 20px;
+  padding-right: 20px;
+  text-transform: uppercase;
+}
+
+.section-1 {
+  float: left;
+  width: 78%;
+  margin: 5px;
+  border: 1px  rgb(16, 1, 16) solid;
+  background-color: rgb(58, 226, 58);
+}
+
+.section-2 {
+  float: right;
+  width: 20%;
+  margin: 5px;
+  border: 1px rgb(16, 1, 16) solid;
+  background-color: rgb(58, 226, 58);  
+}
+
+section p {
+  text-align: center;
+}
+
+section h3 {
+  font-size: 30px;
+  text-align: center;
+  padding: 10px 0px;
+  background-color: white;
+  margin: 10px;
+}
+
+article {
+  text-align: center;
+}
+
+h1 {
+  font-size: 25px;
+  background-color: aliceblue;
+  text-align: center;
+  padding: 5px 0px;
+  margin: 5px;
+}
+
+.second_container {
+  margin: 10px;
+  border: 1px solid black;
+  background-color: rgb(84, 95, 245);
+}
+
+.middle_p {
+  text-align: center;
+  padding: 50px 0px;
+  background-color: blueviolet;
+  margin: 5px;
+}
+
+.float_left {
+  float: left;
+  width: 48%;
+  padding: 50px 0px;
+  background-color: blueviolet;
+  margin: 5px;
+}
+
+aside {
+  float: right;
+  width: 48%;
+  padding: 50px 0px;
+  margin: 5px;
+  background-color: rgb(219, 43, 166);
+  text-align: center;
+}
+
+.footer_1 {
+  text-align: center;
+  background-color: rgb(227, 153, 42);
+  margin: 15px;
+  padding: 10px 0px;
+}
+
+section nav {
+  background-color: rgb(208, 227, 38);
+  padding: 180px 0px;
+  text-align: center;
+  margin: 10px;
+}
+
+.footer_2{
+  text-align: center;
+  padding: 10px 0px;
+  background-color: rgb(222, 106, 49);
+  margin: 20px 0px;
+}
